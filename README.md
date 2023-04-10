@@ -17,3 +17,7 @@ Nesse Curso você vai dominar todo o **Git** e **GitHub** do _zero ao profission
 4. Usando **GitHub** de forma profissional.
 ### Rede social:
 [Instagram](https://instagram.com/leo_lonque)
+
+>Este é um blockcode, usado para destacar alguma area.
+>
+>Segunda area destacada
