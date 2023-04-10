@@ -8,5 +8,10 @@ Nesse Curso você vai dominar todo o **Git** e **GitHub** do _zero ao profission
 * Aprendendo sobre **branches**,
 * Git **avançado**,
 * Usando **GitHub** de forma profissional.
+
+1. Começando com **Git**,
+2. Aprendendo sobre **branches**,
+3. Git **avançado**,
+4. Usando **GitHub** de forma profissional.
 ### Rede social:
 [Instagram](https://instagram.com/leo_lonque)
