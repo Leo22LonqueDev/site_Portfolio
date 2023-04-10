@@ -20,14 +20,14 @@ Nesse Curso você vai dominar todo o **Git** e **GitHub** do _zero ao profission
 2. Aprendendo sobre **branches**,
 3. Git **avançado**,
 4. Usando **GitHub** de forma profissional.
-### Rede social:
+## Rede social:
 [Instagram](https://instagram.com/leo_lonque)
 
 >Este é um blockcode, usado para destacar alguma area.
 >
 >Segunda area destacada
 
-**Comando para rodar o projeto.**
+## Comando para rodar o projeto.
 ```
 npm start
 ```
