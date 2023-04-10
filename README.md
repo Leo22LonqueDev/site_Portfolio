@@ -4,6 +4,9 @@
 Nesse Curso você vai dominar todo o **Git** e **GitHub** do _zero ao profissional_.
 
 ## Módulos:
-_Entendendo o que é **Git**, Aprendendo sobre **repositórios**, Trabalhando com **branches**._
+* Começando com **Git**,
+* Aprendendo sobre **branches**,
+* Git **avançado**,
+* Usando **GitHub** de forma profissional.
 ### Rede social:
 [Instagram](https://instagram.com/leo_lonque)
