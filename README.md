@@ -50,7 +50,7 @@ function showName(name) {
 </h1>
 ```
 
-**CSS padrão do prjeto:**
+**CSS padrão do projeto:**
 ```css
 .titulo{
     background-color: #FFF;
